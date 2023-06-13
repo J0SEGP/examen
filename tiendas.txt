@@ -1,3 +1,5 @@
 1.Soriana
 2.Walmart
 3.Liverpool
+4.Bodega Aurrera
+5.Chedraui
